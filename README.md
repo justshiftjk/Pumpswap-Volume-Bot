@@ -43,4 +43,11 @@ A high-performance automated trading bot engineered to interact seamlessly with 
 
 ## 💡 Use Cases
 
-- Simulate organic volume for newly launched tokens on Pumpswap.
+- Simulate organic volume for newly launched tokens.
+- Create realistic buy/sell activity across wallets.
+- Automate distribution and management of token liquidity.
+- Maintain healthy market dynamics in Pump.fun AMM pools.
+
+---
+
+The source code for this bot is **not publicly available** in this repository due to privacy and operational sensitivity. This `README` serves only as documentation of the bot’s features and capabilities.
